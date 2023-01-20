@@ -6,9 +6,9 @@ require (
 	github.com/go-playground/validator/v10 v10.2.0
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/golang/protobuf v1.3.5 // indirect
-	github.com/google/uuid v1.1.1
-	github.com/juju/errors v0.0.0-20200330140219-3fe23663418f
-	github.com/juju/testing v0.0.0-20210302031854-2c7ee8570c07 // indirect
+	github.com/google/uuid v1.2.0
+	github.com/juju/errors v1.0.0
+	github.com/juju/testing v1.0.3 // indirect
 	github.com/lib/pq v1.9.0 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
